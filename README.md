@@ -2,7 +2,7 @@
 
 Color Generator Pro is a professional-grade color selection tool designed for designers, developers, and anyone working with colors. This Python-based application provides an intuitive and feature-rich interface for exploring, selecting, and analyzing colors.
 
-![Color Generator Pro Screenshot](/placeholder.svg?height=300&width=500)
+![Color Generator Pro Screenshot](/placeholder.svg?height=300&width=500) -- not working
 
 ## Features
 
